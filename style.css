@@ -1,0 +1,391 @@
+body{
+background-color: #000;
+color: #fff;
+}
+
+.head{
+background-color: black;
+color: white;
+}
+.m{
+background-color: black !important;
+color: white !important;
+
+}
+
+.name{
+color:#08d665;
+font-size: 35px;
+font-weight: 700;
+
+}
+.navbar-brand:focus, .navbar-brand:hover {
+color: #fff;
+}
+
+.item{
+color: white !important;
+
+font-size: 22px;
+width: 130px;
+font-weight: 700;
+text-align: center;
+
+}
+.nav-link :hover{
+color: #08d665 !important;
+}
+
+.h_icon{
+color: #08d665;
+text-align: center;
+font-size: 30px;
+font-weight: 700;
+
+}
+/* .wide1{
+width: 30%;
+}
+.wide2{
+width: 70%;
+} */
+
+/* baner */
+.banner{
+background-color: black;
+
+padding-bottom: 50px;
+
+padding-top: 100px;
+
+}
+.text_h1{
+color: #fff;
+padding-top: 100px;
+font-size: 20px;
+
+}
+.text2{
+color: #08d665;
+font-size: 55px;
+font-weight: 700;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.text3{
+color: #fff;
+font-size: 20px;
+padding-bottom: 20px;
+
+}
+.button_b{
+
+color: #fff;
+}
+.b_btn{
+width: 120px;
+height: fit-content;
+border-radius: 20px;
+font-size: 20px;
+font-weight: 600;
+background-color: #08d665;
+color: #fff;
+}
+.image_b{
+border-radius: 20px;
+}
+
+.h1 {
+font-size: 65px;
+}
+
+/* baner */
+
+/* serves */
+.serves{
+padding-bottom: 50px;
+}
+
+.s_item{
+padding-bottom: 50px;
+border:solid 1px #fff;
+margin-left: 10px;
+width: 24%;
+margin-top: 10px;
+border-radius: 15px;
+
+}
+.s_h{
+font-size: 35px;
+color: #08d665;
+font-weight: 600;
+text-align: center;
+padding-bottom: 50px;
+}
+
+.s_icon{
+padding-top: 20px;
+color: #08d665;
+font-size: 60px;
+text-align: center;
+padding-bottom: 40px;
+}
+.s_icon :hover{
+color: #fff;
+}
+
+.text4{
+font-size: 30px;
+text-align: center;
+}
+.text5{
+font-size: 18px;
+text-align: center;
+}
+/* my resume */
+.resume{
+padding-bottom: 60px;
+
+}
+
+.r_head{
+text-align: center;
+color: #08d665;
+
+}
+.r_icon{
+text-align: center;
+font-size: 50px;
+color: #fff;
+margin: 0;
+padding: 0;
+}
+.e_head{
+padding-bottom: 50px;
+}
+
+.e_item{
+text-align: center;
+padding-bottom: 50px;
+border:solid 1px #fff;
+margin-left: 10px;
+width: 24%;
+margin-top: 10px;
+border-radius: 15px;
+}
+.e_icon{
+font-size: 50px;
+color: #08d665;
+}
+
+.ee_head{
+font-size: 35px;
+color: #fff;
+
+}
+.e_p{
+font-size: 16px;
+color: gray;
+}
+.e_btn{
+background-color: #08d665;
+color: #fff;
+width: 200px;
+height: fit-content;
+}
+
+.b_pt{
+padding-top: 20px;
+}
+.add_item{
+padding-top: 100px;
+padding-bottom: 100px;
+}
+.pa_3{
+padding-bottom: 0px;
+}
+.pt2{
+padding-top: 5px;
+}
+
+.pt3{
+padding-bottom: 62px;
+}
+.btnn{
+text-align: center;
+
+}
+.btn_R{
+
+color: #fff;
+background-color: #08d665;
+width: 200px;
+border-radius: 20px;
+text-align: center;
+font-size: 20px;
+font-weight: 600;
+
+}
+.btn_R:hover{
+color: #08d665;
+background-color: #fff;
+
+}
+
+.me_pb{
+padding-bottom: 50px;
+}
+
+/* my work */
+
+.Latest_Work{
+padding-top: 20px;
+padding-bottom: 50px;
+}
+.work_item{
+text-align: center;
+padding-bottom: 25px;
+border:solid 1px #fff;
+margin-left: 10px;
+width: 24%;
+/* margin-top: 10px; */
+border-radius: 15px;
+
+padding-top: 25px;
+
+}
+.work_img{
+width: 100%;
+margin: 8px 0px;
+height: 300px;
+padding-bottom: 20px;
+}
+.work_t{
+font-size: 20px;
+}
+.btn_w{
+width: 100px;
+height: fit-content;
+font-size: 20px;
+background-color: #08d665;
+color: #fff;
+border-radius: 20px;
+font-weight: 400;
+}
+.btn_w:hover{
+background-color: #fff;
+color: #08d665;
+}
+/* complate worl */
+
+.contuct_us{
+padding-bottom: 50px;
+}
+
+/* from */
+
+.complate_work{
+padding-bottom: 60px;
+}
+
+.cw_item{
+text-align: center;
+padding-bottom: 25px;
+border:solid 1px #fff;
+margin-left: 10px;
+width: 24%;
+/* margin-top: 10px; */
+border-radius: 15px;
+
+padding-top: 25px;
+}
+.c_wt{
+color: #08d665;
+font-size: 40px;
+font-weight: 900;
+}
+.from{
+width: 48%;
+}
+.btn_a{
+width: 120px;
+height: fit-content;
+background-color: #08d665;
+color: #fff;
+font-size: 22px;
+font-weight: 600;
+
+}
+.btn_a:hover{
+background-color: #fff;
+color: #08d665;
+}
+/* from */
+.address{
+border: solid 1px white;
+margin: 20px;
+width: 48%;
+}
+.add_item{
+padding: 40px 30px;
+}
+.a_title{
+padding-top: 20px;
+padding-left: 30px;
+font-size: 30px;
+color: #08d665;
+}
+.ad{
+font-size: 20px;
+}
+.email{
+font-size: 20px;
+}
+.phone{
+font-size: 20px;
+}
+.aicon{
+color: #08d665;
+}
+
+/* footer */
+footer{
+background-color: #4b4a49;
+padding-bottom: 120px;
+padding-top: 100px;
+}
+
+.f_1{
+
+}
+.f_1 address{
+color: #fff;
+}
+.f_2{}
+.f_2 p a{
+color: white;
+text-decoration: none;
+}
+
+.f_icon{
+text-align: center;
+font-size: 50px;
+}
+
+/* icon */
+.c_icon{}
+.c_icon li{
+margin-right: 35px !important;
+
+}
+.c_icon li:last-child{
+margin-right: 0 !important;
+}
+.c_icon li i{
+font-size: 42px;
+color: #08d665;
+transition: .3s;
+}
+.c_icon li i:hover{
+color: #e8e2e2;
+}
